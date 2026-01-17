@@ -1,0 +1,12 @@
+venv/
+data/
+__pycache__/
+*.pyc
+.gemini/
+.idea/
+.vscode/
+*.log
+checkpoint/
+spark-warehouse/
+metastore_db/
+derby.log
